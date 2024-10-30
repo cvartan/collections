@@ -76,5 +76,6 @@ func (this *Queue) Clear() {
 	this.mutex.Lock()
 	this.start = nil
 	this.end = nil
+	this.length = 0
 	this.mutex.Unlock()
 }
