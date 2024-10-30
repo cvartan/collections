@@ -70,3 +70,11 @@ func (this *Queue) Peek() interface{} {
 	}
 	return this.start.value
 }
+
+// Clear queue
+func (this *Queue) Clear() {
+	this.mutex.Lock()
+	this.start = nil
+	this.end = nil
+	this.mutex.Unlock()
+}
