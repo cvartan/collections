@@ -1,0 +1,4 @@
+github.com/cvartan/simplethreadpool v0.0.0-20241030170939-23afe39f5d76 h1:ahxYpTp1fKbOVYjcP9+5Nbi3r17HQIoPeHNPo1VyHqI=
+github.com/cvartan/simplethreadpool v0.0.0-20241030170939-23afe39f5d76/go.mod h1:BAhS7CDwi+AKLlK0wH9r7Z4vnQuWRRDzfCI/e0pJcAI=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
